@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cohumanspace-digimon-engine-badge.png)](https://mseep.ai/app/cohumanspace-digimon-engine)
+
 # 👾 Digimon Engine
 
 <div align="center">
